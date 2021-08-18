@@ -1,7 +1,7 @@
 """
 Very advanced Employee management system demonstrating inheritance
 From https://www.youtube.com/watch?v=0mcP8ZpUR38
-Video on Inheritance vs Composition
+Video on Inheritance vs Composition and how composition is better
 """
 
 from abc import ABC, abstractmethod
